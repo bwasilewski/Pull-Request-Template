@@ -1,20 +1,18 @@
-## Reviewer Details
+## Description
 Please include a concise explanation of the work that you are doing.
 
-## Items Addressed
+## Relevant Tickets
 Add a link here to the ticket(s) that are related to this pull request.
 
-[Example](https://jira.com)
-
-## QA Login
-If the coder reviewer or QA engineer needs to log in in order to see your changes, list credentials here:
-- Username: {username here}
-- Password: {password here}
+- [Example 1](https://jira.com)
+- [Example 2](https://jira.com)
 
 ## QA Steps
 - [ ] Define in detail the steps to view your changes or reproduce the error you're working on.
 - [ ] The more detail, the better!
+- [ ] Make sure to include any login details that may be required in order to test your changes.
   
 ## Author Checklist
-- [ ] Assign a dev reviewer when you're ready for code review
-- [ ] Assign a product reviewer when you're ready for QA
+- [ ] Assign a code reviewer (the fewer, the better).
+- [ ] Create a link to this PR in the JIRA ticket you were assigned.
+- [ ] When your PR is approved, assign the JIRA ticket to a QA engineer.
